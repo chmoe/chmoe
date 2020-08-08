@@ -16,6 +16,17 @@ Name: 抹茶|rtmacha
 人格类型：[INFJ-T](https://www.16personalities.com/ch/infj-%E4%BA%BA%E6%A0%BC)
 
 属性：<span class="heimu" title="你知道的太多了"><s>大概是S</s></span>
+<style>
+ .heimu {
+   background-color: #000;
+   color: #000;
+   text-shadow: none;
+   transition: background-color .4s;
+ }
+.heimu:hover {
+     background-color: transparent;
+}
+ </style>
 
 萌物：
  - 可爱的女孩子
