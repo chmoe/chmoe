@@ -1,5 +1,28 @@
 [![](https://count.getloli.com/get/@rtmacha)](https://count.getloli.com)
 
-我不想写简介，只是觉得这个很有趣。。
+Name: 抹茶|rtmacha
+
+喜欢的东西：一言以蔽之“所有可爱的东西”
+
+喜欢的味道：(我也不知道为什么我会写上这个内容)
+ - 夏天的味道（夏天各种各样的元素所构成的夏天独有的味道）
+ - 夜晚的味道
+ - 艾草的气味
+ - 六神花露水的味道
+ - 书籍的油墨气味
+ - 汽油的味道
+ - 花火的气味 （<s>其实就是SO<sub>2</sub>的味道了</s>）
+ 
+人格类型：[INFJ-T](https://www.16personalities.com/ch/infj-%E4%BA%BA%E6%A0%BC)
+
+属性：<span class="heimu" title="你知道的太多了"><s>大概是S</s></span>
+
+萌物：
+ - 可爱的女孩子
+ - 可爱的男孩子（比如犬山）（逃
+ - 可爱的东西
+ - カレシー
+
+目标：成为一名立派な独立游戏开发者
 
 ![NatsunoZero's github stats](https://github-readme-stats.vercel.app/api?username=NatsunoZero&show_icons=true&theme=radical)
