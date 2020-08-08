@@ -1,2 +1,1 @@
-# rtmacha
-关于我的自我介绍
+[![](https://count.getloli.com/get/@rtmacha)](https://count.getloli.com)
