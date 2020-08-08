@@ -26,6 +26,7 @@ Name: 抹茶|rtmacha
 目标：成为一名立派な独立游戏开发者
 
 [![](https://img.shields.io/badge/Unity%203D-Pro-%23000000?style=flat-square&logo=Unity&logoColor=ffffff)](https://unity.com/)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=007acc)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio-%235c2d91?style=flat-square&logo=Visual-studio&logoColor=ffffff)](https://visualstudio.microsoft.com/)
 
 ![NatsunoZero's github stats](https://github-readme-stats.vercel.app/api?username=NatsunoZero&show_icons=true&theme=radical)
