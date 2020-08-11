@@ -15,7 +15,7 @@ Name: 抹茶|rtmacha
  
 人格类型：[INFJ-T](https://www.16personalities.com/ch/infj-%E4%BA%BA%E6%A0%BC)
 
-属性：<s>  大概是S  </s>
+属性：<s>  大概是M  </s>
 
 萌物：
  - 可爱的女孩子
