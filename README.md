@@ -1,5 +1,7 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=NatsunoZero&show_icons=true&theme=merko"></br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatsunoZero&layout=compact">
+<div align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=NatsunoZero&show_icons=true&theme=merko"></br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatsunoZero&layout=compact">
+</div>
 
 [![](https://count.getloli.com/get/@rtmacha)](https://count.getloli.com)
 
