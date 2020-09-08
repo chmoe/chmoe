@@ -29,4 +29,5 @@ Name: 抹茶|rtmacha
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio-%235c2d91?style=flat-square&logo=Visual-studio&logoColor=ffffff)](https://visualstudio.microsoft.com/)
 
-![NatsunoZero's github stats](https://github-readme-stats.vercel.app/api?username=NatsunoZero&show_icons=true&theme=radical)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=NatsunoZero&show_icons=true&theme=merko">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatsunoZero&layout=compact">
