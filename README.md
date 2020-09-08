@@ -1,6 +1,20 @@
-<img  align="right" src="https://github-readme-stats.vercel.app/api?username=NatsunoZero&show_icons=true&theme=merko"></br>
-
-[![](https://count.getloli.com/get/@rtmacha)](https://count.getloli.com)
+<style>
+ <!--css-->
+.left {
+  float: left;
+  width: 100px;
+}
+.right {
+  margin-left: 120px;
+}
+ </style>
+<div class="parent">
+  <div class="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=NatsunoZero&show_icons=true&theme=merko"></br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatsunoZero&layout=compact">
+  </div>
+  <div class="right">
+    [![](https://count.getloli.com/get/@rtmacha)](https://count.getloli.com)
 
 Name: 抹茶|rtmacha
 
@@ -30,5 +44,15 @@ Name: 抹茶|rtmacha
 [![](https://img.shields.io/badge/Unity%203D-Pro-%23000000?style=flat-square&logo=Unity&logoColor=ffffff)](https://unity.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio-%235c2d91?style=flat-square&logo=Visual-studio&logoColor=ffffff)](https://visualstudio.microsoft.com/)
+  </div>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatsunoZero&layout=compact">
+
+
+
+
+
+
+
+
+
