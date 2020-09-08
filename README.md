@@ -1,3 +1,4 @@
+{% raw %}
 <style>
  <!--css-->
 .left {
@@ -8,6 +9,7 @@
   margin-left: 120px;
 }
  </style>
+ {% endraw %}
 <div class="parent">
   <div class="left">
     <img src="https://github-readme-stats.vercel.app/api?username=NatsunoZero&show_icons=true&theme=merko"></br>
