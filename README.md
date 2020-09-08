@@ -3,6 +3,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatsunoZero&layout=compact">
 </div>
 
+<div align="left">
+
 [![](https://count.getloli.com/get/@rtmacha)](https://count.getloli.com)
 
 Name: 抹茶|rtmacha
@@ -34,4 +36,4 @@ Name: 抹茶|rtmacha
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio-%235c2d91?style=flat-square&logo=Visual-studio&logoColor=ffffff)](https://visualstudio.microsoft.com/)
 
-
+</div>
