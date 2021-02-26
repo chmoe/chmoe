@@ -1,13 +1,17 @@
-<img  align="right" src="https://github-readme-stats.vercel.app/api?username=chmoe&show_icons=true&theme=merko"></br>
+<!-- <img  align="right" src="https://github-readme-stats.vercel.app/api?username=chmoe&show_icons=true&theme=merko"></br> -->
 
+访问统计
+==
 [![](https://count.getloli.com/get/@rtmacha)](https://count.getloli.com)
 
-Name: 抹茶|Tricha
 
-喜欢的东西：一言以蔽之“所有可爱的东西”
+个人介绍
+==
+Name: 抹茶|Tricha
  
 人格类型：[INFJ-T](https://www.16personalities.com/ch/infj-%E4%BA%BA%E6%A0%BC)
 
+身份： 本科在读（Senior）
 
 目标：成为一名立派な独立游戏开发者
 
