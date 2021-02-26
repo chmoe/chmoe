@@ -20,5 +20,10 @@ Name: 抹茶|Tricha
 [![](https://img.shields.io/badge/IDE-Visual%20Studio-%235c2d91?style=flat-square&logo=Visual-studio&logoColor=ffffff)](https://visualstudio.microsoft.com/)
 [![](https://img.shields.io/badge/Mac%20Mini-M1%202020-%23000000?style=flat-square&logo=Apple&logoColor=ffffff)](https://apple.com/)
 
+个人博客
+==
+
+这边是我的个人博客 => [瞬间转移](https://blog.cha.moe)
+
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chmoe&hide=javascript,html&theme=solarized-light&layout=compact"> -->
