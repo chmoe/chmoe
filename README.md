@@ -11,7 +11,7 @@ Name: 抹茶|Tricha
  
 人格类型：[INFJ-T](https://www.16personalities.com/ch/infj-%E4%BA%BA%E6%A0%BC)
 
-身份： 本科在读（Senior）
+身份： <s>本科在读（Senior）</s> 失业
 
 目标：成为一名立派な独立游戏开发者
 
