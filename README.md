@@ -11,9 +11,9 @@ Name: 抹茶|Tricha
  
 人格类型：[INFJ-T](https://www.16personalities.com/ch/infj-%E4%BA%BA%E6%A0%BC)
 
-身份： <s>本科在读（Senior）</s> 失业
+身份：魔法使いのIT大臣
 
-目标：成为一名立派な独立游戏开发者
+目标： 希望能够用自己的魔法为人类带去幸福
 
 [![](https://img.shields.io/badge/Unity%203D-Pro-%23000000?style=flat-square&logo=Unity&logoColor=ffffff)](https://unity.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
@@ -23,7 +23,7 @@ Name: 抹茶|Tricha
 个人博客
 ==
 
-这边是我的个人博客 => [瞬间转移](https://blog.cha.moe)
+这边是咱的个人博客 => [瞬间转移](https://blog.cha.moe)
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chmoe&hide=javascript,html&theme=solarized-light&layout=compact"> -->
