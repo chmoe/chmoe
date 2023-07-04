@@ -27,6 +27,11 @@ Name: 抹茶|Tricha
 个人博客
 ==
 
+## 最新内容
+
+< !-- BLOG-POST-LIST:START -->
+< !-- BLOG-POST-LIST:END -->
+
 这边是咱的个人博客 => [瞬间转移](https://blog.cha.moe)
 
 
