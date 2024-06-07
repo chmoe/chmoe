@@ -30,11 +30,11 @@ Name: 抹茶|Tricha
 ## 最新内容
 
 <!-- BLOG-POST-LIST:START -->
+- [自定义之美: 活出真正的自我](https://blog.cha.moe/article/209a30b9.html)
 - [GameFramework找不到流程的问题](https://blog.cha.moe/article/c1229219.html)
 - [【翻译】时速285km的告白](https://blog.cha.moe/article/e6a371c.html)
 - [【年终总结】求新初，心旧韵。悦己](https://blog.cha.moe/article/b7825041.html)
 - [夏天，烟花，以及我的……](https://blog.cha.moe/article/9dd7d6df.html)
-- [[采坑]当遇到live2d自动网格后部件消失Bug时的应对方法](https://blog.cha.moe/article/87513ea8.html)
 <!-- BLOG-POST-LIST:END -->
 
 这边是咱的个人博客 => [瞬间转移](https://blog.cha.moe)
