@@ -11,7 +11,7 @@
 
 个人介绍
 ==
-Name: 抹茶|Tricha
+Name: 抹茶|Tricha(读作/ˈtriːkə/，类似于"tree-kuh"。)
  
 人格类型：[INFJ-T](https://www.16personalities.com/ch/infj-%E4%BA%BA%E6%A0%BC)
 
