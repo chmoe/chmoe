@@ -15,7 +15,7 @@ Name: Matcha|Tricha
  
 Personality：[INFJ-T](https://www.16personalities.com/ch/infj-%E4%BA%BA%E6%A0%BC)
 
-Identity：Magician IT Minister
+Identity：Magician (Game Creator)
 
 Destination： Try to bring happiness to the world with magic.
 
