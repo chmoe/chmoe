@@ -21,9 +21,9 @@ Name: 抹茶|Tricha(读作/ˈtriːkə/，类似于"tree-kuh"。)
 
 [![](https://img.shields.io/badge/Unity%203D-Pro-%23000000?style=flat-square&logo=Unity&logoColor=ffffff)](https://unity.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/MacBook%20Pro%20M4%20Max-%23000000?style=flat-square&logo=Apple&logoColor=ffffff)](https://apple.com/)
 <!--[![](https://img.shields.io/badge/IDE-Visual%20Studio-%235c2d91?style=flat-square&logo=Visual-studio&logoColor=ffffff)](https://visualstudio.microsoft.com/)-->
 <!--[![](https://img.shields.io/badge/Mac%20Mini-M1%202020-%23000000?style=flat-square&logo=Apple&logoColor=ffffff)](https://apple.com/)-->
-[![](https://img.shields.io/badge/MacBook%20Pro%20M4%20Max-%23000000?style=flat-square&logo=Apple&logoColor=ffffff)](https://apple.com/)
 
 个人博客
 ==
