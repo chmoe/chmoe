@@ -28,7 +28,7 @@
 ブログ
 ==
 
-まっちゃんのブログはこちら => [ワープポイント](https://blog.cha.moe)
+まっちゃんのブログはこちら => [ワープしますよ](https://blog.cha.moe)
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chmoe&hide=javascript,html&theme=solarized-light&layout=compact"> -->
