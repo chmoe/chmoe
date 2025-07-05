@@ -31,11 +31,11 @@ Name: 抹茶|Tricha(读作/ˈtriːkə/，类似于"tree-kuh"。)
 ## 最新内容
 
 <!-- BLOG-POST-LIST:START -->
+- [もしも、明日世界が終わるなら](https://blog.cha.moe/article/1eeff954.html)
 - [折腾MacOS的LaunchPad](https://blog.cha.moe/article/bcf4bf21.html)
 - [【年终总结】向左走·向右走](https://blog.cha.moe/article/7b26ae1a.html)
 - [请问，我是谁？](https://blog.cha.moe/article/9f083218.html)
 - [自定义之美: 活出真正的自我](https://blog.cha.moe/article/209a30b9.html)
-- [GameFramework找不到流程的问题](https://blog.cha.moe/article/c1229219.html)
 <!-- BLOG-POST-LIST:END -->
 
 这边是咱的个人博客 => [瞬间转移](https://blog.cha.moe)
